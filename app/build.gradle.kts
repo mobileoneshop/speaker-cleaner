@@ -14,7 +14,7 @@ android {
   compileSdk { version = release(36) { minorApiLevel = 1 } }
 
   defaultConfig {
-    applicationId = "com.normathi.soniclean"
+    applicationId = "com.one.speakercleaner"
     minSdk = 21
     targetSdk = 36
     versionCode = 1
