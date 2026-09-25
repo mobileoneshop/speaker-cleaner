@@ -1,0 +1,6 @@
+{
+  "name": "SonicClean",
+  "description": "Speaker Cleaner & Water Ejector - clean speakers and eject water using calibrated sound waves",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

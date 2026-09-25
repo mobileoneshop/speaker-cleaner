@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Speaker Cleaner</string>
+    <string name="tagline">Speaker Cleaner &amp; Water Ejector</string>
+
+    <!-- Home -->
+    <string name="home_title">Clean Your Speaker</string>
+    <string name="home_subtitle">Remove dust and water with acoustic sound waves</string>
+    <string name="mode_auto">Auto Clean</string>
+    <string name="mode_auto_sub">One-tap deep clean · 34 sec</string>
+    <string name="mode_manual">Manual</string>
+    <string name="mode_manual_sub">Tune the frequency yourself</string>
+    <string name="mode_vibration">Vibration</string>
+    <string name="mode_vibration_sub">Shake dust loose, no sound</string>
+    <string name="mode_test">Sound Test</string>
+    <string name="mode_test_sub">Check clarity after cleaning</string>
+
+    <!-- Mode: Water Eject -->
+    <string name="mode_water_eject">Eject Water</string>
+    <string name="mode_water_eject_sub">Calibrated sine resonance · 100–200 Hz</string>
+    <string name="eject_water_title">Eject Water</string>
+    <string name="eject_water_btn">Eject Water</string>
+    <string name="eject_water_stop_btn">Stop Ejection</string>
+    <string name="eject_water_freq_desc">Adjust frequency to match speaker cavity resonance</string>
+    <string name="eject_water_calibrated">165 Hz · Calibrated Sweet Spot</string>
+    <string name="eject_water_status_playing">Ejecting water with acoustic pressure waves...</string>
+    <string name="eject_water_status_idle">Place speaker facing downward and tap Eject Water</string>
+    <string name="countdown_timer_title">Duration Limit</string>
+    <string name="countdown_timer_desc">Auto-stops emission to prevent excessive battery drain</string>
+    <string name="countdown_battery_saver">Battery Saver Active</string>
+    <string name="countdown_completed">Emission complete · Speaker protected</string>
+
+    <!-- Auto Clean -->
+    <string name="auto_start">Start Cleaning</string>
+    <string name="auto_stop">Stop</string>
+    <string name="auto_step">Step %1$d of 4 · %2$d Hz</string>
+    <string name="auto_done_title">Cleaning complete</string>
+    <string name="auto_done_sub">%1$d sec · peak %2$d Hz</string>
+    <string name="auto_test_sound">Test sound</string>
+    <string name="auto_done">Done</string>
+
+    <!-- Manual -->
+    <string name="manual_freq">%1$d Hz</string>
+    <string name="manual_hint">Drag to find your device’s sweet spot</string>
+    <string name="manual_autostop">Session ended — tap play to continue</string>
+
+    <!-- Vibration -->
+    <string name="vib_gentle">Gentle</string>
+    <string name="vib_deep">Deep</string>
+    <string name="vib_pulse">Pulse</string>
+    <string name="vib_unsupported">Vibration not supported on this device</string>
+
+    <!-- Safety -->
+    <string name="safety_headphones">Disconnect headphones to protect your hearing.</string>
+    <string name="safety_stopped_headphones">Stopped — headphones detected.</string>
+    <string name="safety_volume">For best results, set media volume to maximum.</string>
+    <string name="disclaimer_title">Before you start</string>
+    <string name="disclaimer_body">This app plays loud sounds to clean your speaker. Keep the phone away from your ears, disconnect headphones, and stop if you feel discomfort.</string>
+    <string name="disclaimer_accept">I understand</string>
+    <string name="safety_dialog_title">Safety First</string>
+    <string name="safety_warning_ear_exposure">High-volume acoustic waves will be generated at maximum volume to expel trapped water and dust.</string>
+    <string name="safety_warning_distance">Keep the device away from your ears. Do NOT hold the phone close to your head during cleaning.</string>
+    <string name="safety_warning_position">Tip: Face the speaker grill downward so ejected droplets fall out freely.</string>
+    <string name="safety_dialog_confirm">I Understand &amp; Start</string>
+    <string name="safety_dialog_cancel">Cancel</string>
+
+    <!-- Output -->
+    <string name="output_speaker">Speaker</string>
+    <string name="output_earpiece">Earpiece</string>
+
+    <!-- History -->
+    <string name="history_title">History</string>
+    <string name="history_empty">No cleanings yet — your history will appear here.</string>
+    <string name="history_clear">Clear all</string>
+    <string name="history_clear_confirm">Delete all cleaning history?</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="theme">Theme</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_system">System Default</string>
+    <string name="quick_clean_duration">Quick Clean Duration</string>
+    <string name="quick_clean_duration_desc">Default duration for 10Hz–1000Hz sonic burst</string>
+    <string name="haptics">Haptic feedback</string>
+    <string name="safety_reminders">Safety reminders</string>
+    <string name="default_output">Default output</string>
+    <string name="about">About</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="rate">Rate app</string>
+    <string name="share">Share app</string>
+    <string name="version">Version %1$s</string>
+
+    <!-- Home Stats & Upgrade -->
+    <string name="stat_total_cleans">Total cleans</string>
+    <string name="stat_this_week">This week</string>
+    <string name="stat_last_cleaned">Last cleaned</string>
+    <string name="stat_empty_dash">—</string>
+    <string name="stat_today">Today</string>
+    <string name="stat_yesterday">Yesterday</string>
+    <string name="stat_days_ago">%1$d days ago</string>
+
+    <!-- Tips Carousel -->
+    <string name="tip_badge">PRO TIP</string>
+    <string name="tip_speaker_down">Place the phone speaker-down for best results.</string>
+    <string name="tip_max_volume">Set media volume to maximum before cleaning.</string>
+    <string name="tip_remove_case">Remove the phone case for better airflow.</string>
+
+    <!-- Quick Clean -->
+    <string name="quick_clean_btn">Quick Clean · %1$ds (10–1000 Hz)</string>
+    <string name="quick_clean_countdown">Cleaning… %1$ds · %2$d Hz</string>
+    <string name="quick_clean_done">Quick clean complete</string>
+    <string name="dismiss">Dismiss</string>
+
+    <!-- Sound test -->
+    <string name="test_play">Play test tone</string>
+    <string name="test_ask">Sounds clear?</string>
+    <string name="test_yes">Yes, it’s clear</string>
+    <string name="test_retest">Run again</string>
+</resources>
